@@ -1384,7 +1384,7 @@ footer::before {
 <!-- NAV -->
 <nav id="navbar">
   <a href="#" class="nav-logo">
-    <img src="Black_with_Moonlight_Studio_Logo.png" alt="Yokai Logo" onerror="this.style.display='none'">
+    <img src="./Black_with_Moonlight_Studio_Logo.png" alt="Yokai Logo" onerror="this.style.display='none'">
     <span class="nav-logo-text">妖怪<span>LINUX</span></span>
   </a>
   <ul class="nav-links">
@@ -1393,7 +1393,7 @@ footer::before {
     <li><a href="#terminal">Terminal</a></li>
     <li><a href="#arsenal">Arsenal</a></li>
     <li><a href="#community">Comunidade</a></li>
-    <li><a href="https://mega.nz/folder/i5xwVAgK#COF41cSganHTxynFpAJK4w" target="_blank" class="nav-dl">⬇ ISO</a></li>
+    <li><a href="https://mega.nz/folder/i5xwVAgK#COF41cSganHTxynFpAJK4w" target="_blank" rel="noopener noreferrer" class="nav-dl">⬇ ISO</a></li>
   </ul>
 </nav>
 
@@ -1406,7 +1406,7 @@ footer::before {
     <div class="hero-logo-wrap">
       <div class="logo-ring-outer"></div>
       <div class="logo-ring"></div>
-      <img src="Black_with_Moonlight_Studio_Logo.png" alt="Yokai Linux" onerror="this.style.display='none'">
+      <img src="./Black_with_Moonlight_Studio_Logo.png" alt="Yokai Linux" onerror="this.style.display='none'">
     </div>
     <h1 class="hero-title">
       <span class="title-yokai">YOKAI</span>
@@ -1415,7 +1415,7 @@ footer::before {
     <p class="hero-sub">Forged in the Shadows · <span>Arch-Based</span></p>
     <p class="hero-desc">Advanced Cybersecurity · AI Hacking · Privacy · Performance</p>
     <div class="hero-buttons">
-      <a href="https://mega.nz/folder/i5xwVAgK#COF41cSganHTxynFpAJK4w" target="_blank" class="btn-primary">
+      <a href="https://mega.nz/folder/i5xwVAgK#COF41cSganHTxynFpAJK4w" target="_blank" rel="noopener noreferrer" class="btn-primary">
         <i class="fas fa-download"></i> DOWNLOAD ISO — x86_64
       </a>
       <a href="#features" class="btn-secondary">
@@ -1516,11 +1516,11 @@ footer::before {
         </div>
       </div>
       <div class="dl-btn-wrap">
-        <a href="https://mega.nz/folder/i5xwVAgK#COF41cSganHTxynFpAJK4w" target="_blank" class="btn-download">
+        <a href="https://mega.nz/folder/i5xwVAgK#COF41cSganHTxynFpAJK4w" target="_blank" rel="noopener noreferrer" class="btn-download">
           <i class="fas fa-download"></i> DOWNLOAD ISO — MEGA.NZ
         </a>
         <div class="dl-alt-links">
-          <a href="https://mega.nz/folder/i5xwVAgK#COF41cSganHTxynFpAJK4w" target="_blank" class="dl-alt">
+          <a href="https://mega.nz/folder/i5xwVAgK#COF41cSganHTxynFpAJK4w" target="_blank" rel="noopener noreferrer" class="dl-alt">
             <i class="fas fa-cloud-download-alt"></i> MEGA.NZ DIRETO
           </a>
           <a href="#" class="dl-alt" onclick="showToast('Torrent em breve!');return false;">
@@ -1717,12 +1717,12 @@ footer::before {
 <footer>
   <div class="footer-inner">
     <div class="footer-logo">
-      <img src="Black_with_Moonlight_Studio_Logo.png" alt="Yokai" onerror="this.style.display='none'">
+      <img src="./Black_with_Moonlight_Studio_Logo.png" alt="Yokai" onerror="this.style.display='none'">
       <div class="footer-logo-text">妖怪 LINUX</div>
     </div>
     <div class="footer-kanji">守 · 破 · 離</div>
     <ul class="footer-links">
-      <li><a href="https://mega.nz/folder/i5xwVAgK#COF41cSganHTxynFpAJK4w" target="_blank">Download</a></li>
+      <li><a href="https://mega.nz/folder/i5xwVAgK#COF41cSganHTxynFpAJK4w" target="_blank" rel="noopener noreferrer">Download</a></li>
       <li><a href="#features">Features</a></li>
       <li><a href="#arsenal">Arsenal</a></li>
       <li><a href="#terminal">Terminal</a></li>
@@ -1842,7 +1842,6 @@ document.addEventListener('mousemove', e => {
 function drawHero() {
   hCtx.clearRect(0, 0, heroCanvas.width, heroCanvas.height);
   
-  // Draw connections
   for (let i = 0; i < hParticles.length; i++) {
     for (let j = i + 1; j < hParticles.length; j++) {
       const dx = hParticles[i].x - hParticles[j].x;
@@ -1860,7 +1859,6 @@ function drawHero() {
   }
   
   hParticles.forEach(p => {
-    // Mouse attraction
     const dx = mouseX - p.x;
     const dy = mouseY - p.y;
     const dist = Math.sqrt(dx*dx + dy*dy);
@@ -1871,8 +1869,6 @@ function drawHero() {
     
     p.x += p.vx;
     p.y += p.vy;
-    
-    // Damping
     p.vx *= 0.99;
     p.vy *= 0.99;
     
@@ -1913,11 +1909,9 @@ function drawGrid() {
   
   gridOffset += 0.3;
   
-  const size = 60;
   const vanishX = w / 2;
   const vanishY = h * 0.4;
   
-  // Perspective grid lines
   gCtx.strokeStyle = 'rgba(180,0,0,0.12)';
   gCtx.lineWidth = 0.8;
   
@@ -1944,10 +1938,6 @@ function drawGrid() {
     gCtx.stroke();
   }
   
-  // Floating hex data
-  gCtx.fillStyle = 'rgba(180,0,0,0.25)';
-  gCtx.font = '10px Share Tech Mono';
-  
   requestAnimationFrame(drawGrid);
 }
 
@@ -1962,7 +1952,7 @@ window.addEventListener('scroll', () => {
 
 // ===== SCROLL REVEAL =====
 const revealObserver = new IntersectionObserver((entries) => {
-  entries.forEach((e, i) => {
+  entries.forEach((e) => {
     if (e.isIntersecting) {
       setTimeout(() => e.target.classList.add('visible'), 80 * (e.target.dataset.delay || 0));
       e.target.classList.add('visible');
