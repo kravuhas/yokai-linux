@@ -1,7 +1,7 @@
 # 👹 YOKAI LINUX
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/df22f995-bc77-4f9c-81d6-f817dfa37717" width="100%" />
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4392aca0-a509-4b37-a24e-2003d764fd1d" />
 </p>
 
 > **Forged in the Shadows — Arch-Based Cybersecurity System**
