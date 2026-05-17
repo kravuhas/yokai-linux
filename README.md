@@ -1,119 +1,167 @@
 # 👹 YOKAI LINUX
 
 <p align="center">
- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4392aca0-a509-4b37-a24e-2003d764fd1d" />
-</p>
-
-> **Forged in the Shadows — Arch-Based Cybersecurity System**
-
----
-
-## 🩸 Sobre o Projeto
-
-**Yokai Linux** é uma distribuição Linux inspirada em **lendas urbanas japonesas (妖怪 - Yokai)**, criada com foco total em:
-
-* 🔴 Segurança da Informação
-* 🔴 Privacidade extrema
-* 🔴 Performance
-* 🔴 Ferramentas avançadas de hacking
-
-Tudo isso com uma estética **sombria, vermelha e demoníaca**, trazendo uma experiência única para hackers, pentesters e entusiastas.
-
----
-
-## 🧧 Filosofia
-
-> “Nas sombras vivem os yokai… e também os hackers.”
-
-O Yokai Linux foi criado para quem quer sair do comum.
-Aqui você não usa apenas um sistema — você entra em um **ambiente de guerra digital**.
-
----
-
-## 🖥️ Interface & Sistema
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/175211bf-ddb8-4028-88db-a9eacf10bc05" width="100%" />
+  <img src="https://github.com/user-attachments/assets/4392aca0-a509-4b37-a24e-2003d764fd1d" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dc3c11b2-6873-4c83-82d5-fde59706729e" width="100%" />
+  🩸 <i>"Forged in the Shadows — 見えないものは、最も perigoso"</i> 🩸
 </p>
 
-* 🎴 Tema inspirado em demônios japoneses
-* 🩸 UI minimalista e agressiva (vermelho/preto)
-* ⚡ Base Arch Linux (rolling release)
-* 🧠 Otimizado para produtividade em segurança
-
 ---
 
-## ⚔️ Features
+## 🩸 TRANSMISSÃO DETECTADA
 
-* 🧪 Ferramentas de Pentest integradas
-* 🌐 Ambiente pronto para Bug Bounty
-* 🔐 Hardening focado em anonimato
-* ⚡ Kernel otimizado (6.x)
-* 💀 Interface única estilo cyberpunk + folclore japonês
+```bash
+[ YOKAI CORE BOOT ]
 
----
+Inicializando...
+Carregando módulos ocultos...
+Injetando silêncio...
+██████████░░░░░░ 62%
 
-## 📦 Download
+⚠ ENTIDADE DETECTADA ⚠
 
-👉 **Baixe a ISO aqui:**
+Você não deveria estar aqui.
+👁️ ORIGEM
 
-🔗 https://yokai-linux-5mz1.vercel.app/
+Nos cantos esquecidos da internet...
 
-> Instale em VM ou máquina real e entre nas sombras.
+Onde logs desaparecem e rastros nunca existiram...
 
----
+Algo começou a se formar.
 
-## 🩻 Requisitos
+Não foi desenvolvido.
 
-* CPU: x86_64
-* RAM: 4GB+ (recomendado 8GB)
-* Armazenamento: 20GB+
-* Virtualização recomendada
+Não foi documentado.
 
----
+Não foi autorizado.
 
-## 🧙 Público-Alvo
+Apenas surgiu.
 
-* Hackers iniciantes e avançados
-* Bug bounty hunters
-* Estudantes de cibersegurança
-* Usuários que querem um sistema único
+Chamam isso de:
 
----
+👹 YOKAI
 
-## 🩸 Roadmap
+Um sistema inspirado nas entidades do folclore japonês (妖怪)
 
-* [ ] Mais ferramentas automatizadas
-* [ ] Integração com ambientes CTF
-* [ ] Tema dinâmico (dia/noite yokai)
-* [ ] Sistema próprio de anonimização
+Silencioso.
+Invisível.
+Observando.
 
----
+🧧 FILOSOFIA
+> yokai --core
 
-## 👁️ Aviso
+[✓] Invisibilidade
+[✓] Persistência
+[✓] Controle
 
-Este sistema é destinado para:
+Erro: empatia não encontrada
 
-> **uso educacional e profissional em segurança**
+Yokai Linux não é apenas uma distro.
 
-O uso indevido é de total responsabilidade do usuário.
+É um ambiente de infiltração digital.
 
----
+🖥️ INTERFACE
+<p align="center"> <img src="https://github.com/user-attachments/assets/175211bf-ddb8-4028-88db-a9eacf10bc05" /> </p> <p align="center"> <img src="https://github.com/user-attachments/assets/dc3c11b2-6873-4c83-82d5-fde59706729e" /> </p>
+> render --theme yokai
 
-## 👹 Autor
+[OK] vermelho ritualístico carregado
+[OK] sombras profundas aplicadas
+[OK] distrações removidas
+🩸 Estética vermelho/preto
+🎴 Inspirado em máscaras demoníacas japonesas
+⚡ Minimalismo agressivo
+👁️ Foco total no operador
+⚔️ ARSENAL
+> yokai --arsenal
 
-Criado por alguém que não teme o escuro.
+[01] oni-scan        → varredura agressiva
+[02] kitsune-proxy   → anonimato adaptativo
+[03] yurei-trace     → rastreamento invisível
+[04] akuma-shell     → acesso persistente
+[05] kage-exploit    → exploração automatizada
+🧪 Ferramentas de Pentest integradas
+🌐 Ambiente pronto para Bug Bounty
+🔐 Hardening focado em anonimato
+⚡ Base Arch Linux (rolling release)
+💀 Kernel otimizado (6.x)
+📦 MANIFESTAÇÃO
+> access yokai
 
----
+ERRO: acesso negado
 
-<p align="center">
-  🩸 "Forged in the Shadows" 🩸
-</p>
+> sudo accept-fate
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/df22f995-bc77-4f9c-81d6-f817dfa37717" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/175211bf-ddb8-4028-88db-a9eacf10bc05" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dc3c11b2-6873-4c83-82d5-fde59706729e" />
+ACESSO CONCEDIDO
+
+👉 https://yokai-linux-5mz1.vercel.app/
+
+Instale...
+
+E veja se o sistema aceita você.
+
+🩻 REQUISITOS
+> system-check
+
+CPU        ✔ x86_64
+RAM        ✔ 4GB mínimo (8GB recomendado)
+DISK       ✔ 20GB+
+STATUS     ✔ compatível
+🧙 ALVOS
+Hackers
+Pentesters
+Bug bounty hunters
+Curiosos… que foram longe demais
+🩸 ROADMAP
+> future --scan
+
+[ ] Expansão do arsenal
+[ ] Integração CTF
+[ ] Tema dinâmico (Yokai Mode)
+[ ] Sistema avançado de anonimização
+👁️ MODO ARG
+<details> <summary>⚠ abrir arquivo oculto</summary>
+> decode yokai.signal
+
+01011001 01001111 01001011 01000001 01001001
+
+Traduzido:
+YOKAI
+> localizar origem
+
+ERRO: localização inexistente
+> mensagem
+
+"se você está lendo isso...
+ele já viu você."
+</details>
+💀 ASCII ENTITY
+        ⛧
+      /     \
+     |  👁️   👁️ |
+     |   ▽    |
+      \  ─── /
+       \___/
+     ／|   |＼
+    /  |   |  \
+       /   \
+      /_____\
+
+   Y O K A I
+👁️ AVISO
+> warning --read
+
+Este sistema não é um brinquedo.
+
+Destinado apenas para:
+
+uso educacional e profissional em segurança
+
+Uso indevido é responsabilidade total do usuário.
+
+👹 AUTOR
+> whoami
+
+desconhecido
+<p align="center"> 🩸 "Você não encontra o Yokai... ele encontra você." 🩸 </p> ```
