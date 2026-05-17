@@ -1,11 +1,12 @@
 # 👹 YOKAI LINUX
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4392aca0-a509-4b37-a24e-2003d764fd1d" />
+  <img src="https://github.com/user-attachments/assets/4392aca0-a509-4b37-a24e-2003d764fd1d" width="500" alt="Yokai Linux Banner"/>
 </p>
 
 <p align="center">
-  🩸 <i>"Forged in the Shadows — 見えないものは、最も perigoso"</i> 🩸
+  <strong><i>"Forged in the Shadows — 見えないものは、最も perigoso"</i></strong><br>
+  <sub>Silencioso. Invisível. Observando.</sub>
 </p>
 
 ---
@@ -14,129 +15,165 @@
 
 ```bash
 [ YOKAI CORE BOOT ]
-
-Inicializando...
-Carregando módulos ocultos...
-Injetando silêncio...
 ██████████░░░░░░ 62%
+Inicializando módulos ocultos...
+Injetando silêncio...
+Sistema YOKAI online.
+```
 
-⚠ ENTIDADE DETECTADA ⚠
+> ⚠ **ENTIDADE DETECTADA** ⚠  
+> Você não deveria estar aqui.
 
-Você não deveria estar aqui.
-👁️ ORIGEM
+---
 
-Nos cantos esquecidos da internet...
+## 👁️ ORIGEM
 
-Onde logs desaparecem e rastros nunca existiram...
+Nos recantos esquecidos da rede, onde registros se dissipam e rastros se apagam, uma presença emergiu.  
+Não foi desenvolvida — *manifestou-se*.  
+Não foi documentada — *permanece oculta*.  
+Não foi autorizada — *apenas existe*.
 
-Algo começou a se formar.
+Conheça **YOKAI** — uma entidade digital inspirada nos espíritos do folclore japonês, personificada em um sistema operacional para aqueles que operam nas sombras.
 
-Não foi desenvolvido.
+---
 
-Não foi documentado.
+## 🧧 FILOSOFIA
 
-Não foi autorizado.
+```bash
+$ yokai --core
+[✓] Invisibilidade    — Seja fantasma.
+[✓] Persistência      — Nunca desapareça.
+[✓] Controle          — Comande a escuridão.
+[✗] Empatia           — Não encontrado.
+```
 
-Apenas surgiu.
+YOKAI Linux não é apenas uma distribuição.  
+É um **ambiente de infiltração digital**, um espaço de trabalho para quem precisa mover-se sem ser visto.
 
-Chamam isso de:
+---
 
-👹 YOKAI
+## 🖥️ INTERFACE
 
-Um sistema inspirado nas entidades do folclore japonês (妖怪)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/175211bf-ddb8-4028-88db-a9eacf10bc05" width="700" alt="Yokai Desktop Interface"/>
+  <br>
+  <img src="https://github.com/user-attachments/assets/dc3c11b2-6873-4c83-82d5-fde59706729e" width="700" alt="Yokai Terminal View"/>
+</p>
 
-Silencioso.
-Invisível.
-Observando.
+```bash
+$ render --theme yokai
+[OK] Vermelho ritualístico carregado
+[OK] Sombras profundas aplicadas
+[OK] Distrações removidas
+[OK] Foco total no operador
+```
 
-🧧 FILOSOFIA
-> yokai --core
+- 🩸 **Estética vermelho/preto** — Inspirada em máscaras demoníacas japonesas
+- ⚡ **Minimalismo agressivo** — Nada além do essencial
+- 👁️ **Foco total no operador** — Cada pixel serve a um propósito
 
-[✓] Invisibilidade
-[✓] Persistência
-[✓] Controle
+---
 
-Erro: empatia não encontrada
+## ⚔️ ARSENAL INTEGRADO
 
-Yokai Linux não é apenas uma distro.
+```bash
+$ yokai --arsenal
+[01] oni-scan        → Varredura agressiva de rede
+[02] kitsune-proxy   → Anonimato adaptativo em camadas
+[03] yurei-trace     → Rastreamento invisível
+[04] akuma-shell     → Acesso persistente e silencioso
+[05] kage-exploit    → Exploração automatizada
+[+] Ferramentas de pentest pré-configuradas
+[+] Ambiente otimizado para Bug Bounty
+[+] Hardening focado em anonimato e segurança ofensiva
+```
 
-É um ambiente de infiltração digital.
+---
 
-🖥️ INTERFACE
-<p align="center"> <img src="https://github.com/user-attachments/assets/175211bf-ddb8-4028-88db-a9eacf10bc05" /> </p> <p align="center"> <img src="https://github.com/user-attachments/assets/dc3c11b2-6873-4c83-82d5-fde59706729e" /> </p>
-> render --theme yokai
+## ⚡ BASE TÉCNICA
 
-[OK] vermelho ritualístico carregado
-[OK] sombras profundas aplicadas
-[OK] distrações removidas
-🩸 Estética vermelho/preto
-🎴 Inspirado em máscaras demoníacas japonesas
-⚡ Minimalismo agressivo
-👁️ Foco total no operador
-⚔️ ARSENAL
-> yokai --arsenal
+- **Base:** Arch Linux (Rolling Release)
+- **Kernel:** Otimizado 6.x com patches de segurança
+- **Gerenciador de pacotes:** Pacman + AUR customizado
+- **Arquitetura:** x86_64
 
-[01] oni-scan        → varredura agressiva
-[02] kitsune-proxy   → anonimato adaptativo
-[03] yurei-trace     → rastreamento invisível
-[04] akuma-shell     → acesso persistente
-[05] kage-exploit    → exploração automatizada
-🧪 Ferramentas de Pentest integradas
-🌐 Ambiente pronto para Bug Bounty
-🔐 Hardening focado em anonimato
-⚡ Base Arch Linux (rolling release)
-💀 Kernel otimizado (6.x)
-📦 MANIFESTAÇÃO
-> access yokai
+---
 
-ERRO: acesso negado
+## 📦 MANIFESTAÇÃO
 
-> sudo accept-fate
+```bash
+$ access yokai
+ERRO: Acesso negado.
 
-ACESSO CONCEDIDO
+$ sudo accept-fate
+ACESSO CONCEDIDO.
+```
 
-👉 https://yokai-linux-5mz1.vercel.app/
+🔗 **Portal de acesso:** [https://yokai-linux-5mz1.vercel.app/](https://yokai-linux-5mz1.vercel.app/)
 
-Instale...
+> Instale.  
+> E descubra se o sistema o aceita como operador.
 
-E veja se o sistema aceita você.
+---
 
-🩻 REQUISITOS
-> system-check
+## 🩻 REQUISITOS DO SISTEMA
 
-CPU        ✔ x86_64
-RAM        ✔ 4GB mínimo (8GB recomendado)
-DISK       ✔ 20GB+
-STATUS     ✔ compatível
-🧙 ALVOS
-Hackers
-Pentesters
-Bug bounty hunters
-Curiosos… que foram longe demais
-🩸 ROADMAP
-> future --scan
+```bash
+$ system-check
+[✓] CPU: x86_64 (64-bit)
+[✓] RAM: 4GB mínimo | 8GB recomendado
+[✓] Armazenamento: 20GB+ livre
+[✓] Status: Compatível com YOKAI
+```
 
-[ ] Expansão do arsenal
-[ ] Integração CTF
-[ ] Tema dinâmico (Yokai Mode)
-[ ] Sistema avançado de anonimização
-👁️ MODO ARG
-<details> <summary>⚠ abrir arquivo oculto</summary>
-> decode yokai.signal
+---
 
+## 🧙‍♂️ PARA QUEM YOKAI FOI CRIADO?
+
+- **Pentesters** que precisam de um ambiente pronto para ofensiva
+- **Caçadores de recompensas** (Bug Bounty Hunters)
+- **Pesquisadores de segurança** em ambientes controlados
+- **Entusiastas avançados** que compreendem os riscos
+
+---
+
+## 🩸 ROADMAP — O QUE VEM À FRENTE
+
+```bash
+$ future --scan
+[ ] Expansão do arsenal com ferramentas customizadas
+[ ] Módulos integrados para competições CTF
+[ ] Sistema de temas dinâmicos (Yokai Mode)
+[ ] Anonimização avançada em múltiplas camadas
+[ ] Automação de fluxos de trabalho de segurança
+```
+
+---
+
+## 👁️ MODO ARG (ALTERNATE REALITY GAME)
+
+<details>
+<summary><strong>⚠ CLIQUE PARA ABRIR ARQUIVO OCULTO</strong></summary>
+
+```bash
+$ decode yokai.signal
 01011001 01001111 01001011 01000001 01001001
+Tradução: YOKAI
 
-Traduzido:
-YOKAI
-> localizar origem
+$ localizar-origem
+ERRO: Localização inexistente.
 
-ERRO: localização inexistente
-> mensagem
-
-"se você está lendo isso...
+$ mensagem
+"Se você está lendo isto...
 ele já viu você."
+```
 </details>
-💀 ASCII ENTITY
+
+---
+
+## 💀 ENTIDADE ASCII
+
+```
         ⛧
       /     \
      |  👁️   👁️ |
@@ -148,20 +185,41 @@ ele já viu você."
        /   \
       /_____\
 
-   Y O K A I
-👁️ AVISO
-> warning --read
+   Y   O   K   A   I
+```
 
-Este sistema não é um brinquedo.
+---
 
-Destinado apenas para:
+## ⚠️ AVISO LEGAL & ÉTICO
 
-uso educacional e profissional em segurança
+```bash
+$ warning --read
+```
 
-Uso indevido é responsabilidade total do usuário.
+**YOKAI Linux** é uma ferramenta para **fins educacionais e profissionais de segurança**.  
+Destina-se exclusivamente a:
 
-👹 AUTOR
-> whoami
+- Testes em ambientes controlados e autorizados
+- Pesquisa acadêmica em segurança cibernética
+- Desenvolvimento de defesas através de conhecimento ofensivo
 
-desconhecido
-<p align="center"> 🩸 "Você não encontra o Yokai... ele encontra você." 🩸 </p> ```
+**❌ USO INADEQUADO É PROIBIDO E DE RESPONSABILIDADE INTEGRAL DO USUÁRIO.**  
+Conheça as leis da sua jurisdição. Atue sempre com permissão explícita.
+
+---
+
+## 👹 AUTOR
+
+```bash
+$ whoami
+> Autor: [Oculto]
+> Propósito: Forjar ferramentas para as sombras
+> Filosofia: "O conhecimento não é bom nem mau — é como é usado"
+```
+
+---
+
+<p align="center">
+  <strong>YOKAI LINUX</strong><br>
+  <sub>Não procure por nós. Operamos no silêncio.</sub>
+</p>
